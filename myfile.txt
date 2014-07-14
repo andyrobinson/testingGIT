@@ -1,3 +1,5 @@
 This is the merged third file
 
+Some more stuff on master
+
 Some very bad stuff I don't want
